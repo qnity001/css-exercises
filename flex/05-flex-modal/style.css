@@ -70,7 +70,8 @@ button.cancel {
 
 .modal {
   display:flex;
-  justify-content: space-around;
+  justify-content: center;
+  padding: 8px;
 }
 
 .icon {
