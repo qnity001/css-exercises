@@ -71,6 +71,7 @@ button.cancel {
 .modal {
   display:flex;
   justify-content: center;
+  padding: 10px;
 }
 
 .icon {
@@ -82,5 +83,7 @@ button.cancel {
   display: flex;
   justify-content: space-between;
   align-items: center;
+  font-weight: bold;
+  font-size: 18px;
 }
 
